@@ -3,3 +3,5 @@ payload:
 - '+.speedtestcustom.com'
 - '+.generativelanguage.googleapis.com'
 - '+.chatgpt.com'
+- 'pcmag.speedtestcustom.com'
+- 'fast.com'
