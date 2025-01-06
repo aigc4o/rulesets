@@ -2,6 +2,5 @@ payload:
 - 'ping0.cc'
 - 'fast.com'
 - '+.speedtestcustom.com'
-- '+.speedtestcustom.com'
 - '+.generativelanguage.googleapis.com'
 - '+.chatgpt.com'
