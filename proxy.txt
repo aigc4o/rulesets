@@ -1,5 +1,5 @@
 payload:
 - 'ping0.cc'
+- '+.speedtestcustom.com'
 - '+.generativelanguage.googleapis.com'
 - '+.chatgpt.com'
-- '+.speedtestcustom.com'
