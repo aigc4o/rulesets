@@ -3,3 +3,4 @@ payload:
 - '+.generativelanguage.googleapis.com'
 - '+.chatgpt.com'
 - 'github.com'
+- 'githubusercontent.com'
