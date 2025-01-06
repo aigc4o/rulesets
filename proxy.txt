@@ -4,3 +4,4 @@ payload:
 - '+.speedtestcustom.com'
 - '+.generativelanguage.googleapis.com'
 - '+.chatgpt.com'
+- '+.genspark.com'
