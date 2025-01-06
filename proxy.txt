@@ -1,3 +1,4 @@
+payload:
 - 'ping0.cc'
 - '+.generativelanguage.googleapis.com'
 - '+.chatgpt.com'
