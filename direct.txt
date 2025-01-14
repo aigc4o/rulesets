@@ -2,3 +2,5 @@ payload:
 - '+.cnki.net'
 - '+.csdn.net'
 - '+.edu.cn'
+- '+epicgames.com'
+- '+epicgamescdn.com'
